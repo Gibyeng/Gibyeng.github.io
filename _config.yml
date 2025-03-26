@@ -86,26 +86,26 @@ content:
     layout: text
     content: |
       **Gpu-accelerated graph label propagation for real-time fraud detection.**  
-      _Chang Ye, Yuchen Li, Bingsheng He, Zhao Li, and Jianling Sun_ 
-      _SIGMOD, 2021_ 
-      [Paper Link](https://doi.org/10.1145/3448016.3452774)   
+      _Chang Ye, Yuchen Li, Bingsheng He, Zhao Li, and Jianling Sun_  
+      _SIGMOD, 2021_  
+      [Paper Link](https://doi.org/10.1145/3448016.3452774)  
 
       **Large-Scale Graph Label Propagation on GPUs.**  
       _Chang Ye, Yuchen Li, Bingsheng He, Zhao Li, and Jianling Sun_  
       _TKDE, 2023_  
-      [Paper Link](https://doi.org/10.1109/TKDE.2023.3336329)  
+      [Paper Link](https://doi.org/10.1109/TKDE.2023.3336329)   
 
       **Gsword: Gpu-accelerated sampling for subgraph counting.**  
       _Chang Ye, Yuchen Li, Shixuan Sun, and Wentian Guo_  
       _SIGMOD, 2024_  
       [Paper Link](https://doi.org/10.1145/3639288)
 
-      **A survey of typical attributed graph queries.**
-      _Yanhao Wang, Yuchen Li, Ju Fan, Chang Ye, and Mingke Chai_
-      _WWWJ, 2021_
+      **A survey of typical attributed graph queries.**  
+      _Yanhao Wang, Yuchen Li, Ju Fan, Chang Ye, and Mingke Chai_  
+      _WWWJ, 2021_  
 
-      **A Survey on Concurrent Processing of Graph Analytical Queries: Systems and Algorithms**
-      _Yuchen Li, Shixuan Sun, Hanhua Xiao, Chang Ye, Shengliang Lu, and Bingsheng He_
+      **A Survey on Concurrent Processing of Graph Analytical Queries: Systems and Algorithms**  
+      _Yuchen Li, Shixuan Sun, Hanhua Xiao, Chang Ye, Shengliang Lu, and Bingsheng He_  
       _TKDE, 2024_
 
   - title: Experience # Title for the section
