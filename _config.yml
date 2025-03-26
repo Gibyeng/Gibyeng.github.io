@@ -1,0 +1,167 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: chang ye
+title: CS PhD. of Singapore Management University
+email: gibyeng@gmail.com
+# website: www.github.com/sproogen/resume-theme
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: facespics
+github_username: Gibyeng
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: changye
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+  - title: itsgoingto.be
+    icon: fas fa-globe
+    url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's changye and I'm a PhD. student of Singapore Management University (SMU). My research interests are database systems, graph algorithms, and parallel computing. Before joining SMU, I got my M.S and B.S. in Electronic information engineering in Xidian Uninversity, China. I am most skilled in: <mark>Graph processing</mark> and <mark>GPU computing</mark>.
+
+content:
+  #   - title: Projects # Title for the section
+  #     layout: list # Type of content section (list/text)
+  #     content:
+  #       - layout: top-middle
+  #         title: Super awesome project
+  #         link: github.com/sproogen
+  #         # link_text: Project Website
+  #         additional_links:
+  #           - title: sproogen/modern-resume-theme
+  #             icon: fab fa-github
+  #             url: github.com/sproogen/modern-resume-theme
+  #           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           #   icon: fab fa-github
+  #           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #         quote: >
+  #           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #         description: | # this will include new lines to allow paragraphs
+  #           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  # - title: Education # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: Harvard University
+  #       caption: 2010 - 2013
+  #       sub_title: BSc Computer Science
+  #       quote: >
+  #         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  #       description: | # this will include new lines to allow paragraphs
+  #         During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+  #         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  - title: Publications
+    layout: text
+    content: |
+      **Gpu-accelerated graph label propagation for real-time fraud detection.**  
+      _Chang Ye, Yuchen Li, Bingsheng He, Zhao Li, Jianling Sun_ 
+      _SIGMOD, 2021_ 
+      [Paper Link](https://doi.org/10.1145/3448016.3452774)"   
+
+      **Large-Scale Graph Label Propagation on GPUs.**  
+      _Chang Ye, Yuchen Li, Bingsheng He, Zhao Li, and Jianling Sun_  
+      _TKDE, 2023_  
+      [Paper Link](https://doi.org/10.1109/TKDE.2023.3336329)  
+
+      **gsword: Gpu-accelerated sampling for subgraph counting.**  
+      _Chang Ye, Yuchen Li, Shixuan Sun, and Wentian Guo_  
+      _SIGMOD, 2024_  
+      [Paper Link](https://doi.org/10.1145/3639288)
+
+      **A survey of typical attributed graph queries.**
+      _Yanhao Wang, Yuchen Li, Ju Fan, Chang Ye, and Mingke Chai_
+      _WWWJ, 2021_
+
+      **A Survey on Concurrent Processing of Graph Analytical Queries: Systems and Algorithms**
+      _Yuchen Li, Shixuan Sun, Hanhua Xiao, Chang Ye, Shengliang Lu, and Bingsheng He_
+      _TKDE, 2024_
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Singapore Management University
+        link: https://www.smu.edu.sg/
+        # link_text: boringcompany.com
+        sub_title: Research engineer
+        caption: 2018-2020
+        quote: >
+          The Singapore Management University (SMU) is a publicly funded private university in Singapore. Founded in 2000, SMU is the third oldest autonomous university in the country. In 2024, SMU was ranked 44th in the world for Business and Management Studies, while also placing in the top 100 for Economics and Finance by QS.
+        description: | # this will include new lines to allow paragraphs
+          Work as a research engineer in SMU, study database systems graph algorithms and parallel computing.
+
+      - layout: left
+        title: Xidian Uninversity
+        link: https://en.xidian.edu.cn/
+        # link_text: boringcompany.com
+        sub_title: Software engineer
+        caption: internship
+        quote: >
+          Xidian U under the jurisdiction of the Ministry of Education, dedicates primarily to the electronics and information education and research, with an integration of a wide range of academic subjects covering engineering, science, management, economy, arts and social sciences.
+        description: | # this will include new lines to allow paragraphs
+          Collect information from over 5000 students per year who about to graduate, and improve the online Management systems of the office to make it a better performance. Provide technical support for users of the system.
+
+      - layout: left
+        title: Xidian Uninversity
+        link: https://en.xidian.edu.cn/
+        # link_text: boringcompany.com
+        sub_title: Operations Engineer
+        caption: internship
+        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+          Help to maintain 12 web servers good condition, solve network problems for college staffs, also work as manager for Personal Homepage Website of Xidian U.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my academic interests some of my other interests and hobbies are:
+      - Swimming
+      - Gaming
+      - Discover interesting AI apps
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
