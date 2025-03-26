@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: chang ye
-title: CS PhD. of Singapore Management University
+title: CS Ph.D of Singapore Management University
 email: gibyeng@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -22,7 +22,7 @@ github_username: Gibyeng
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: changye
+linkedin_username: chang-ye-89372833a
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -30,10 +30,10 @@ linkedin_username: changye
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-  - title: itsgoingto.be
-    icon: fas fa-globe
-    url: https://www.itsgoingto.be
+# additional_links:
+#   - title: itsgoingto.be
+#     icon: fas fa-globe
+#     url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's changye and I'm a PhD. student of Singapore Management University (SMU). My research interests are database systems, graph algorithms, and parallel computing. Before joining SMU, I got my M.S and B.S. in Electronic information engineering in Xidian Uninversity, China. I am most skilled in: <mark>Graph processing</mark> and <mark>GPU computing</mark>.
+  Hi, my name's changye and I'm a Ph.D student of Singapore Management University (SMU). My research interests are database systems, graph algorithms, and parallel computing. Before joining SMU, I got my M.S and B.S. in Electronic information engineering in Xidian Uninversity, China. I am most skilled in: <mark>Graph processing</mark> and <mark>GPU computing</mark>.
 
 content:
   #   - title: Projects # Title for the section
@@ -86,16 +86,16 @@ content:
     layout: text
     content: |
       **Gpu-accelerated graph label propagation for real-time fraud detection.**  
-      _Chang Ye, Yuchen Li, Bingsheng He, Zhao Li, Jianling Sun_ 
+      _Chang Ye, Yuchen Li, Bingsheng He, Zhao Li, and Jianling Sun_ 
       _SIGMOD, 2021_ 
-      [Paper Link](https://doi.org/10.1145/3448016.3452774)"   
+      [Paper Link](https://doi.org/10.1145/3448016.3452774)   
 
       **Large-Scale Graph Label Propagation on GPUs.**  
       _Chang Ye, Yuchen Li, Bingsheng He, Zhao Li, and Jianling Sun_  
       _TKDE, 2023_  
       [Paper Link](https://doi.org/10.1109/TKDE.2023.3336329)  
 
-      **gsword: Gpu-accelerated sampling for subgraph counting.**  
+      **Gsword: Gpu-accelerated sampling for subgraph counting.**  
       _Chang Ye, Yuchen Li, Shixuan Sun, and Wentian Guo_  
       _SIGMOD, 2024_  
       [Paper Link](https://doi.org/10.1145/3639288)
@@ -129,7 +129,7 @@ content:
         sub_title: Software engineer
         caption: internship
         quote: >
-          Xidian U under the jurisdiction of the Ministry of Education, dedicates primarily to the electronics and information education and research, with an integration of a wide range of academic subjects covering engineering, science, management, economy, arts and social sciences.
+          Xidian Uninversity under the jurisdiction of the Ministry of Education, dedicates primarily to the electronics and information education and research, with an integration of a wide range of academic subjects covering engineering, science, management, economy, arts and social sciences.
         description: | # this will include new lines to allow paragraphs
           Collect information from over 5000 students per year who about to graduate, and improve the online Management systems of the office to make it a better performance. Provide technical support for users of the system.
 
@@ -150,7 +150,7 @@ content:
       Alongside my academic interests some of my other interests and hobbies are:
       - Swimming
       - Gaming
-      - Discover interesting AI apps
+      - Discovering interesting AI tools
 
 # Footer
 footer_show_references: true
